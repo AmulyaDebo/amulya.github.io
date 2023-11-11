@@ -10,26 +10,35 @@ Web development - MERN stack
 DevOps - Jenkins, Docker, Docker compose, Kubernetes, ELK stack
 Machine learning - PyTorch, TensorFlow, Keras
 
+# Courses:
+
+Data Structures and Algorithms
+Computer Networks
+Operating Systems
+Software Production Engineering( DevOps,
+SDLC, etc)
+Machine Learning 
+Maths for Machine Learning
+Reinforcement Learning
+Network-Based Computing for HPC
+
+
 # Projects:
 # FashionPal:
 
-The Fashion Pal project is a comprehensive online platform for dress shopping. It is designed to cater to customers looking to buy dresses of their choice in various sizes and price ranges. The website offers a wide range of dress varieties, allowing users to explore and select their preferred styles. Customers can easily browse through the collection and add their favorite dresses to a cart for future reference. Security is a paramount concern, with measures in place to safeguard private credentials and user data. The system requires users to log in before leaving comments, providing accountability and enabling easy tracking if necessary. Performance is optimized, ensuring a responsive experience for users. Overall, Fashion Pal aims to provide a user-friendly, secure, and efficient platform for users to explore, select, and purchase their desired dresses.
+• The Fashion Pal project is a comprehensive online platform for dress shopping. It has the following features:
+• Admin login: Admin can add new dresses and update the count whenever a new dress is bought or added
+• Customer login: A customer can create or sign up for a new account or sign to an already existing account
+• User Interface: Display all the dresses and show the count Make a list of your favorite dresses: Customers can add
+  desired dresses to the cart
+• Tools used: GitHub, npm, Jenkins, Docker, Ansible, ELK Stack (Elastic Search, Logstash, Kibana),Morgan Logger, Jest
+• Used React and Node to build the website and used MongoDB as the database
+• Deployed the app using the CI/CD pipeline in Jenkins.
+• Github link to the project: https://github.com/AmulyaDebo/Fashion_Pal
 
-Website features:
-
-Admin login: Admin can add new dresses and update the count whenever a new dress is bought or added
-Customer login: A customer can create or sign up for a new account or sign to an already existing account
-User Interface: Display all the dresses and show the count
-Make a list of your favorite dresses: Customers can add desired dresses to the cart
-
-Tools used:
-
-Source Control Management - GitHub
-Build - npm
-Continuous Integration - Jenkins
-Containerization - Docker
-Continuous deployment - Ansible
-Monitoring - ELK Stack (Elastic Search, Logstash, Kibana)
+# DDOS attack identification:
+An imbalanced binary classification dataset was given to us, and we compared different ML algorithms to see which one
+of them could act as an optimum classifier that can efficiently identify DDOS attack vs non-attack samples
 
 
 
